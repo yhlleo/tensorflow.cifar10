@@ -1,5 +1,5 @@
 # tensorflow.cifar10
-The examples of image classification with the dataset CIFAR10 via tensorflow.
+The examples of image recognition with the dataset CIFAR10 via tensorflow.
 
 CIFAR-10 is a common benchmark in machine learning for image recognition.
 
