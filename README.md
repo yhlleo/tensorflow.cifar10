@@ -48,6 +48,9 @@ GitHub公布代码相对源码，主要进行了以下修正：
 ```python
 #indices = tf.reshape(tf.range(FLAGS.batch_size), [FLAGS.batch_size, 1])
 indices = tf.reshape(range(FLAGS.batch_size), [FLAGS.batch_size, 1])
+
+# or
+indices = tf.reshape(tf.range(0, FLAGS.batch_size, 1), [FLAGS.batch_size, 1])
 ```
 
 此处，源码编译时会出现以下错误：
