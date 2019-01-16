@@ -4,17 +4,17 @@ The examples of image recognition with the dataset CIFAR10 via tensorflow.
 ### **1 CIFAR-10 数据集**
 CIFAR-10数据集是机器学习中的一个通用的用于图像识别的基础数据集，官网链接为：[The CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html)
 
-![cifar10](http://img.blog.csdn.net/20160226153743929)
+![cifar10](https://img-blog.csdn.net/20160226153743929)
 
 下载使用的版本是：
 
-![version](http://img.blog.csdn.net/20160226160254186)
+![version](https://img-blog.csdn.net/20160226160254186)
 
 将其解压后（代码中包含自动解压代码），内容为：
 
- ![cifar10 data](http://img.blog.csdn.net/20160226160343415)
+ ![cifar10 data](https://img-blog.csdn.net/20160226160343415)
 
-![cifar10 data2](http://img.blog.csdn.net/20160226160405884)
+![cifar10 data2](https://img-blog.csdn.net/20160226160405884)
 
 ### **2 测试代码**
 测试代码公布在GitHub：[yhlleo](https://github.com/yhlleo/tensorflow.cifar10)
